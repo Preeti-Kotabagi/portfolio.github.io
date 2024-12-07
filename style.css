@@ -5,44 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page - Design and Analysis of Algorithms</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 1rem 2rem;
-            text-align: center;
-        }
-        main {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: white;
-        }
-        nav {
-            text-align: center;
-            margin-top: 1rem;
-        }
-        nav a {
-            margin: 0 1rem;
-            color: #4CAF50;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
+       h1{
+           text-align:center;
+       }
+     .navbar ul{
+           list-style-type: none;
+           background-color: lightblue
+           padding:0px;
+           margin: 0px
+     }
+    .navbar a{
+        color: white;
+        text decoration: none;
+        padding: 15px;
+        display: blak;
+        text-align: center;
     </style>
 </head>
 <body>
