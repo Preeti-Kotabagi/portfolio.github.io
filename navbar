@@ -37,11 +37,11 @@
 		<div class="navdiv">
 			<div class="logo"><a href="#">CodingNinja</a> </div>
 			<ul>
-				<li><a href="#">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Contact</a></li>
-				<button><a href="#">SignIn</a></button>
-				<button><a href="#">SignUp</a></button>
+				<li><a href="#">Introduction to course</a></li>
+				<li><a href="#">Introduction to project</a></li>
+				<li><a href="#">Reflections 1</a></li>
+				<button><a href="#">Reflections 2</a></button>
+				<button><a href="#">Reflections 3</a></button>
 			</ul>
 		</div>
 	</nav>
